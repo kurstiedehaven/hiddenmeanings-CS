@@ -24,7 +24,7 @@ This tutorial will focus on the regex `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]
 
 ### Anchors
 
-Anchors in regular expressions are used to specify the position of a match in the input string. The `a` anchor at the beginning of the regex ensures that the match starts at the beginning of the string. The `$` anchor at the end ensures that it ends at the end of the string.
+Anchors in regular expressions are used to specify the position of a match in the input string. The `^` anchor at the beginning of the regex ensures that the match starts at the beginning of the string. The `$` anchor at the end ensures that it ends at the end of the string.
 
 ### Quantifiers
 
